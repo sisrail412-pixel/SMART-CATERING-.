@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SMART CATERING</title>
+  <style>
+    body {
+      font-family: "Noto Sans Bengali", sans-serif;
+      text-align: center;
+      background-color: #f3f4f6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #2563eb;
+      color: white;
+      padding: 20px 0;
+    }
+    main {
+      padding: 30px;
+    }
+    footer {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+    button {
+      background-color: #2563eb;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #1d4ed8;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>স্বাগতম SMART CATERING 🌐</h1>
+  </header>
+
+  <main>
+    <h2>এইটা আমার প্রথম HTML ওয়েবসাইট</h2>
+    <p>বিভিন ্ ন অনুষ্ঠান ে সুদক ্ ষ রাঁধুন ি দ্বারা রান্না ও সুন্দর ভাব ে পরিবেশন করিয়া থাকি। বিঃদ্রঃ- কড়ির প্লেট, কফ ি মেশিন, ফুচকা ষ্টল, চেয়ার টেবিলের কভার, মিনারেলওয়াটার পাওয়া যায়। খাদিমপুকুর, ইলামবাজার, বীরভূম প্রোঃ- নঈম 8158948958</p>
+    <button onclick="alert('ধন্যবাদ! আপনি বাটনে ক্লিক করেছেন!')">Click me</button>
+  </main>
+
+  <footer>
+    <p>© 2025 ISRAIL . সর্বস্বত্ব সংরক্ষিত.</p>
+  </footer>
+</body>
+</html>
